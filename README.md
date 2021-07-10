@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thalesgraciani
-- mas👀 I’m interested in  aprender Python e Django
-- 🌱 I’m currently learning   Python e  cursando  Análise e Desenvolvimento de Sistemas
+-Estou começado minha carreira como desenvolvedor
+- 🌱 Estou estudando Kotlin e  cursando  Análise e Desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
